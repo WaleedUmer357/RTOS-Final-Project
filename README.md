@@ -126,11 +126,10 @@ After studying this project, you will understand:
 - Educators teaching operating systems
 - Hobbyists interested in low-level programming
 
- 📄 License
+ License
 This project is open-source under the MIT License, intended for educational and non-commercial use.
 
 
 
-Note: This is an educational implementation and should not be used in production systems without extensive testing and validation.
 
-*Happy learning about RTOS internals!* 🎓
+
